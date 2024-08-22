@@ -1,2 +1,2 @@
-# Sraj2024
+# Staj2024
  React deneme
